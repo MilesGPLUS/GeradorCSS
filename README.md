@@ -1,2 +1,2 @@
 # GeradorCSS
-Gerador CSS
+Gerador CSS simples.
